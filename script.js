@@ -16,12 +16,12 @@ const LANGUAGES = {
             "Take a Funny Group Selfie 📸",
             "Compliment someone Honestly 😊",
             "Order a drink in a fake accent 🍻",
-            "Cheers glasses with a random stranger 🥂",
+            "Tell a Fun fact about you!🤔",
             "Group picture with weird Faces 🤪",
             "Tell your funniest travel/drunk story ✈️",
             "Show a Dance Move 💃🕺",
-            "Use a cheesy pick-up line on someone at your table 😉",
-            "Swap clothes/accessories with someone 👗🧣"
+            "Say a German Sentence Correctly😉",
+            "Win a rock paper scissors duel✂️"
         ]
     },
     'de': {
@@ -40,12 +40,12 @@ const LANGUAGES = {
             "Gruppen-Selfie 📸",
             "Gebe jmd. ein ehrliches Kompliment 😊",
             "Bestell ein Drink mit einem lustigen Akzent 🍻",
-            "Stoßt mit einem zufälligen Fremden an 🥂",
+            "Erzähl eine lustige Tatsache über dich! 🤔",
             "Gruppenfoto mit lustigen Gesichtern 🤪",
             "Erzählt ein Fun Fact/Sauf Story ✈️",
             "Zeig einen Dance-Move 💃🕺",
-            "Mache einen Anmachsprach an deinem Gegenüber 😉",
-            "Tausch ein Kleidungsstück mit jmd👗🧣"
+            "Sag einen deutschen Satz richtig. 😉",
+            "Gewinne ein Schere-Stein-Papier-Duell! ✂️"
         ]
     },
     'es': {
@@ -64,12 +64,12 @@ const LANGUAGES = {
             "Tómate una selfie grupal divertida 📸",
             "Haz un cumplido sincero a alguien 😊",
             "Pide una bebida con un acento falso 🍻",
-            "Choca copas con un extraño al azar 🥂",
+            "¡Cuenta un dato curioso sobre ti! 🤔",
             "Foto grupal con caras raras 🤪",
             "Cuenta tu historia de viaje/borracho más divertida ✈️",
             "Muestra un paso de baile 💃🕺",
-            "Usa una frase cursi para ligar con alguien en tu mesa 😉",
-            "Intercambia ropa/accesorios con alguien 👗🧣"
+            "Di una frase en alemán correctamente. 😉",
+            "¡Gana un duelo de piedra, papel o tijeras! ✂️"
         ]
     }
 };
